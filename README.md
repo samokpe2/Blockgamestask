@@ -20,3 +20,9 @@ This includes my contributions to the blockgames task
  - https://github.com/TeamResilient/NestDrive/pull/18
  - https://github.com/TeamResilient/NestDrive/pull/27
 
+
+## Project 3
+ - https://github.com/The-Unicorn-Team/ZuriDao/pull/13
+ - https://github.com/The-Unicorn-Team/ZuriDao/pull/25
+ 
+
